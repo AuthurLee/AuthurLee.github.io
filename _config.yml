@@ -49,7 +49,7 @@ social:
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
-    - https://scholar.google.com/citations?user=7f5mMXAAAAAJ
+    # - https://scholar.google.com/citations?user=7f5mMXAAAAAJ
 
 google_site_verification: # fill in to your verification string
 
@@ -70,7 +70,7 @@ google_analytics:
 #     light  - Use the light color scheme
 #     dark   - Use the dark color scheme
 #
-theme_mode: dark # [light|dark]
+theme_mode: # [light|dark]
 
 # The CDN endpoint for images.
 # Notice that once it is assigned, the CDN url
@@ -80,7 +80,7 @@ theme_mode: dark # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: /assets/img/photo/avatar.jpg
 
 # boolean type, the global switch for TOC in posts.
 toc: true
