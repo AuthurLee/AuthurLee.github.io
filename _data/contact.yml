@@ -7,7 +7,7 @@
 #   icon: "fab fa-twitter"
 
 - type: scholar
-  icon: "fab fa-google"
+  icon: "fa-brands fa-google"
   link: "https://scholar.google.com/citations?user=7f5mMXAAAAAJ"
 
 - type: email
