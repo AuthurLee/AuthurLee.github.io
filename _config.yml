@@ -23,7 +23,7 @@ title: Chen LI # the main title
 tagline: Data Science and Information technology, THU # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  Interested in Computer Vision, Transfer Learning, Information Visualization, and Multimodal Machine Learning.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: "https://github.com/AuthurLee/AuthurLee.github.io"
@@ -31,8 +31,11 @@ url: "https://github.com/AuthurLee/AuthurLee.github.io"
 github:
   username: AuthurLee # change to your github username
 
-twitter:
-  username: twitter_username # change to your twitter username
+# twitter:
+#   username: twitter_username # change to your twitter username
+
+# scholar:
+#   username: 
 
 social:
   # Change to your full name.
@@ -41,11 +44,12 @@ social:
   email: lichen21@mails.tsinghua.edu.cn # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your twitter homepage
+    # - https://twitter.com/username # change to your twitter homepage
     - https://github.com/username # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
+    - https://scholar.google.com/citations?user=7f5mMXAAAAAJ
 
 google_site_verification: # fill in to your verification string
 

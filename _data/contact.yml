@@ -3,8 +3,12 @@
 - type: github
   icon: "fab fa-github"
 
-- type: twitter
-  icon: "fab fa-twitter"
+# - type: twitter
+#   icon: "fab fa-twitter"
+
+- type: scholar
+  icon: "fab fa-google"
+  link: "https://scholar.google.com/citations?user=7f5mMXAAAAAJ"
 
 - type: email
   icon: "fas fa-envelope"
