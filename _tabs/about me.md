@@ -18,7 +18,7 @@ Computer Vision, Transfer Learning, Multimodal Machine Learning
 
 ## Research Experience
 
-### Domain Adaptation for Industrial Surface Defect Detection
+### Industrial Surface Defect Detection
 
 > 2022-07 ~ Present
 
