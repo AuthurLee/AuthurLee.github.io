@@ -40,7 +40,7 @@ Enhancing the precision of lithography processes in semiconductor manufacturing 
 
 ## Awards and Recognitions
 
-- WOLIT 2023, **Best Poster Award**
+- WOLIT 2023, [**Best Poster Award**](http://idi-wolit.com/wolit23/best_posters.html)
 - "Ingenulty Cup" National Artificial Intelligence Innovation Application Competition
   - **First prize** in the domestic development framework Engineering application Competition
   - **Second prize** in the Final Competition.
