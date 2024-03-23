@@ -20,10 +20,10 @@ timezone: Asia/Shanghai
 
 title: Chen LI # the main title
 
-tagline: Data Science and Information technology, THU # it will display as the sub-title
+tagline: Data Science and Information Technology, THU # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  Interested in Computer Vision, Transfer Learning, Information Visualization, and Multimodal Machine Learning.
+  Interested in Computer Vision, Transfer Learning, Information Visualization.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: "https://github.com/AuthurLee/AuthurLee.github.io"
