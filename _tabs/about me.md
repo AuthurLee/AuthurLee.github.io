@@ -14,7 +14,7 @@ order: 4
 
 ## Research Focus
 
-Computer Vision, Transfer Learning, Multimodal Machine Learning
+Computer Vision, Transfer Learning
 
 ## Research Experience
 
@@ -34,9 +34,13 @@ Enhancing the precision of lithography processes in semiconductor manufacturing 
 
 ## Publications
 
-- **Li, C.**, Yan, H., Qian, X., Zhu, S., Zhu, P., Liao, C., ... & Li, X. (2023). A domain adaptation YOLOv5 model for industrial defect inspection. Measurement, 213, 112725.
-- **Li, C.**, Yan, H., Zhu, S., Hong, Y., Zhu, P., Wen, Y., ... & Li, X. (2023, January). A feature-based transfer-YOLOv5 model for rapid defect inspection in large mass magnetic tile manufacturing. In Optoelectronic Imaging and Multimedia Technology IX (Vol. 12317, pp. 251-256). SPIE.
-- Hong, Y., **Li, C.**, Yan, H., Valle, E., Dou, Y., Liao, C., ... & Li, X. (2023, January). A multi-source transfer learning-based weighted network for small sample defect inspection. In Optoelectronic Imaging and Multimedia Technology IX (Vol. 12317, pp. 107-113). SPIE.
+- **Li, C.**, Pan, X., Zhu, P., Zhu, S., Liao, C., Tian, H., ... & Li, X. (2024). Style Adaptation module: Enhancing detector robustness to inter-manufacturer variability in surface defect detection. Computers in Industry, Vol. 157-158, 104084. **(SCI1 TOP, Q1, IF=10.0)**
+- **Li, C.**, Yan, H., Qian, X., Zhu, S., Zhu, P., Liao, C., ... & Li, X. (2023). A domain adaptation YOLOv5 model for industrial defect inspection. Measurement, 213, 112725. **(SCI2 TOP, Q1, IF=5.6)**
+- **Li, C.**, Yan, H., Zhu, S., Hong, Y., Zhu, P., Wen, Y., ... & Li, X. (2023, January). A feature-based transfer-YOLOv5 model for rapid defect inspection in large mass magnetic tile manufacturing. In Optoelectronic Imaging and Multimedia Technology IX (Vol. 12317, pp. 251-256). SPIE. **(EI)**
+- Hong, Y., **Li, C.**, Yan, H., Valle, E., Dou, Y., Liao, C., ... & Li, X. (2023, January). A multi-source transfer learning-based weighted network for small sample defect inspection. In Optoelectronic Imaging and Multimedia Technology IX (Vol. 12317, pp. 107-113). SPIE. **(EI)**
+
+- Salgado, E. I. V., **Li, C.**, Han, Y., Shi, L., & Li, X. (2024). Consensus Focus for Object Detection and minority classes. arXiv preprint arXiv:2401.05530.
+- Ma, R., Li, C., Xing, Y., Wang, S., Ma, R., Feng, F., ... & Li, X. Defect Focused Harris3d & Boundary Fine-Tuning Optimized Region Growing: Lithium Battery Pole Piece Defect Segmentation. Available at SSRN 4764543.
 
 ## Awards and Recognitions
 
@@ -48,8 +52,6 @@ Enhancing the precision of lithography processes in semiconductor manufacturing 
 
 ## Upcoming Research
 
-- Style Adaptation Module: Enhancing Detector Robustness to Inter-Manufacturer Variability in Surface Defect Detection (Submitted to AAAI2024)
-
-Multimodal learning in industrial surface defect detection. (About to start)
+Other style application in industrial domain.
 
 <!-- ## Personal Statement -->
