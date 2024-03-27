@@ -42,7 +42,7 @@ Enhancing the precision of lithography processes in semiconductor manufacturing 
 
 ## Publications
 
-1. **Li, C.**, Pan, X., Zhu, P., Zhu, S., Liao, C., Tian, H., ... & Li, X. (2024). Style Adaptation module: Enhancing detector robustness to inter-manufacturer variability in surface defect detection. Computers in Industry, Vol. 157-158, 104084. **(SCI1 TOP, Q1, IF=10.0)**
+1. **Li, C.**, Pan, X., Zhu, P., Zhu, S., Liao, C., Tian, H., ... & Li, X. (2024). [Style Adaptation module: Enhancing detector robustness to inter-manufacturer variability in surface defect detection](https://authurlee.github.io/posts/sa/). Computers in Industry, Vol. 157-158, 104084. **(SCI1 TOP, Q1, IF=10.0)**
 2. **Li, C.**, Yan, H., Qian, X., Zhu, S., Zhu, P., Liao, C., ... & Li, X. (2023). A domain adaptation YOLOv5 model for industrial defect inspection. Measurement, 213, 112725. **(SCI2 TOP, Q1, IF=5.6)**
 3. **Li, C.**, Yan, H., Zhu, S., Hong, Y., Zhu, P., Wen, Y., ... & Li, X. (2023, January). A feature-based transfer-YOLOv5 model for rapid defect inspection in large mass magnetic tile manufacturing. In Optoelectronic Imaging and Multimedia Technology IX (Vol. 12317, pp. 251-256). SPIE. **(EI)**
 4. Hong, Y., **Li, C.**, Yan, H., Valle, E., Dou, Y., Liao, C., ... & Li, X. (2023, January). A multi-source transfer learning-based weighted network for small sample defect inspection. In Optoelectronic Imaging and Multimedia Technology IX (Vol. 12317, pp. 107-113). SPIE. **(EI)**
