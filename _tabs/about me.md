@@ -47,6 +47,7 @@ Enhancing the precision of lithography processes in semiconductor manufacturing 
 3. **Li, C.**, Yan, H., Zhu, S., Hong, Y., Zhu, P., Wen, Y., ... & Li, X. (2023, January). A feature-based transfer-YOLOv5 model for rapid defect inspection in large mass magnetic tile manufacturing. In Optoelectronic Imaging and Multimedia Technology IX (Vol. 12317, pp. 251-256). SPIE. **(EI)**
 4. Hong, Y., **Li, C.**, Yan, H., Valle, E., Dou, Y., Liao, C., ... & Li, X. (2023, January). A multi-source transfer learning-based weighted network for small sample defect inspection. In Optoelectronic Imaging and Multimedia Technology IX (Vol. 12317, pp. 107-113). SPIE. **(EI)**
 
+- **Li, C.**, Ma, R., Qian, X., Wang, X., & Li, X. (2024). Enhancing Industrial Transfer Learning with Style Filter: Cost Reduction and Defect-Focus. arXiv preprint arXiv:2403.16607.
 - Salgado, E. I. V., **Li, C.**, Han, Y., Shi, L., & Li, X. (2024). Consensus Focus for Object Detection and minority classes. arXiv preprint arXiv:2401.05530.
 - Ma, R., **Li, C.**, Xing, Y., Wang, S., Ma, R., Feng, F., ... & Li, X. Defect Focused Harris3d & Boundary Fine-Tuning Optimized Region Growing: Lithium Battery Pole Piece Defect Segmentation. Available at SSRN 4764543.
 
